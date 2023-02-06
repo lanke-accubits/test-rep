@@ -9,3 +9,5 @@ no need
 # stage ante github web ki git bash ki bridge
 
 #git push origin ----- sends modifications or files to the web
+
+git checkout -b <branch name> from <branch>
